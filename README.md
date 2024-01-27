@@ -1,2 +1,2 @@
 # LostCatDev
-Im
+Im just a hobbie developer and kernel fan
